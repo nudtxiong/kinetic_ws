@@ -1,0 +1,6 @@
+Name: visensor
+Description: Interface library for the VI-Sensor
+URL: http://www.asl.ethz.ch
+Version: 1.2
+Cflags: -I/home/nubot/kinetic_ws/src/okvis_ros/okvis/ThirdPackage/VISensor/include/
+Libs: -L/home/nubot/kinetic_ws/src/okvis_ros/okvis/ThirdPackage/VISensor/lib/;-lvisensor -lvisensor_static

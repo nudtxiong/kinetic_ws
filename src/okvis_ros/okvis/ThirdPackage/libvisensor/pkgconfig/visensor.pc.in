@@ -1,0 +1,6 @@
+Name: visensor
+Description: Interface library for the VI-Sensor
+URL: http://www.asl.ethz.ch
+Version: @ViSensor_VERSION_STRING@
+Cflags: @ViSensor_INCLUDE_DIRS_STRING@
+Libs: @ViSensor_LIBRARIES_STRING@

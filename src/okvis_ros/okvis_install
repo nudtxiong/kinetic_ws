@@ -1,0 +1,10 @@
+我们已经修改了okvis 下ThirdPackage的libvisensor包， 直接运行./install_libvisensor.sh
+
+安装ml_libraries库 
+
+设置option (USE_SYSTEM_CERES
+
+https://www.doc.ic.ac.uk/~sleutene/software/brisk-2.0.3.zip
+修改了okvis下cmake  FindPackage
+
+
